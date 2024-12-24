@@ -1,2 +1,1 @@
-# SensibleOpinions
-Ghost theme for SensibleOpinions
+# Ghost theme for SensibleOpinions.com
