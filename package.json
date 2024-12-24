@@ -1,0 +1,19 @@
+{
+    "name": "sensibleopinions",
+    "description": "The official theme for SensibleOpinions.com",
+    "version": "0.1.0",
+    "license": "Custom",
+    "author": {
+        "email": "admin@sensibleopinions.com"
+    },
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "config": {
+        "posts_per_page": 8,
+        "image_sizes": {},
+        "card_assets": true
+    }
+}
+
